@@ -9,8 +9,8 @@ function Header() {
             <nav>
                 <ul>
                     <li><Link to="/">Accueil</Link></li>
-                    <li><Link to="/with">Page sécurisée</Link></li>
-                    <li><Link to="/without">Page vulnérable</Link></li>
+                    <li><Link to="/secure">Page sécurisée</Link></li>
+                    <li><Link to="/vunerable">Page vulnérable</Link></li>
                 </ul>
             </nav>            
         </header>

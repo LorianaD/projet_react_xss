@@ -1,8 +1,30 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0;
+}
+
 li {
     list-style: none;
+    width: 119px;
+    text-align: center;
+    padding: 0;
 }
 
 ul {
     display: flex;
     gap: 25px;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
 }
