@@ -1,0 +1,7 @@
+Exo 1
+Faire une page qui affiche le titre voici la page 1
+- composant avec titre
+- sous-titre : bonsoir il est 19h et je vous souhaite la bienvenu
+bonsoir ou bonjour selon l'heure (gerer dans une variable salutation)
+19h01 dans une variable time
+xxx il est xxxx et je vous souhaite le bienvenue dans une variable phrase
